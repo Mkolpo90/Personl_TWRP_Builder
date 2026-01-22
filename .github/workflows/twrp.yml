@@ -21,7 +21,7 @@ on:
       DEVICE_TREE:
         description: 'Device Tree URL'
         required: true
-        default: 'https://github.com/DevCat3/android_device_samsung_gta4lve'
+        default: 'https://github.com/Mkolpo90/gta4lve_twrp'
       DEVICE_TREE_BRANCH:
         description: 'Device Tree Branch'
         required: true
